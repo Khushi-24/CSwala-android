@@ -58,6 +58,11 @@ import java.util.Date;
 public class EditProfile extends AppCompatActivity implements AdapterView.OnItemSelectedListener {
 
 
+
+
+
+
+
     private TextView etDate, txtdob;
     private EditText txtname, txtemail, txtphone;
     private Spinner txtgender;

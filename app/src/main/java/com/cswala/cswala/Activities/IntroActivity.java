@@ -14,6 +14,11 @@ import com.pixplicity.easyprefs.library.Prefs;
 import org.jetbrains.annotations.Nullable;
 
 public class IntroActivity extends AppIntro2 {
+
+
+
+
+    
     @Override
     protected void onCreate(@Nullable Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
